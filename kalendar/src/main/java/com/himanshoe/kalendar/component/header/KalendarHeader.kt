@@ -67,6 +67,7 @@ fun KalendarHeader(
             .padding(start = 8.dp, bottom = 16.dp),
         horizontalArrangement = Arrangement.SpaceBetween
     ) {
+        //intial start of the project
         AnimatedContent(
             modifier = Modifier
                 .wrapContentHeight()
